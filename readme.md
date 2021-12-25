@@ -4,7 +4,7 @@
 This is a package for printing padding for struct fields in a nice way. We export functions `prettypadding` and `bestpadding`. For usage please see examples below.
 
 <details>
-  <summary>What padding rules we use?</summary>
+  <summary>What alignment rules we use?</summary>
 
   The rules meet C struct alignment requirements. Namely,
   * Fields within a struct are aligned by the widest scalar member.
