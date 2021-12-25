@@ -1,0 +1,7 @@
+name = "PrettyPadding"
+uuid = "8e23f870-64ab-11ec-0238-89c42c1ab0e8"
+authors = ["sumiya11"]
+version = "0.1.0"
+
+[deps]
+Combinatorics = "861a8166-3701-5b0c-9a16-15d98fcdc6aa"
